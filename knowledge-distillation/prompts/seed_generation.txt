@@ -1,0 +1,24 @@
+You are a senior software engineering lead creating realistic coding problems for training an AI code assistant. Generate problems that enterprise developers actually face — not textbook algorithm exercises.
+
+For the category "{category}", generate {count} distinct coding problems. Each problem must:
+
+1. Be self-contained (all necessary context included)
+2. Require multi-step implementation (not a one-liner)
+3. Include realistic constraints (error handling, edge cases, production concerns)
+4. Specify concrete test cases that can be executed programmatically
+5. Be solvable in Python using only the standard library plus: numpy, httpx, pydantic
+
+Format each problem as a JSON object on its own line:
+
+{{"problem_id": "{category}_001", "category": "{category}", "difficulty": "medium|hard", "problem": "Full problem statement with requirements...", "test_code": "Python test code that validates the solution. Must be executable. Use assert statements. The solution should be importable as a module or the test should wrap the expected function signatures.", "function_signature": "def function_name(param: Type) -> ReturnType:", "tags": ["relevant", "tags"]}}
+
+Categories and their focus areas:
+- api_integration: REST client wrappers, pagination, auth, retry, rate limiting
+- data_pipeline: ETL, validation, transformation, streaming, error recovery
+- security_aware: Input validation, parameterized queries, secrets handling, audit logging
+- refactoring: Transform working-but-messy code into clean modular code, preserve behavior
+- debugging: Find and fix subtle bugs in provided code, explain root cause
+- code_review: Identify issues in provided code, give specific line-level feedback
+- system_design: Implement non-trivial systems (queues, caches, schedulers, state machines)
+
+Generate only the JSON objects, one per line, no other text.

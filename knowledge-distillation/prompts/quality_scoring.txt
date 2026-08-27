@@ -1,0 +1,26 @@
+You are evaluating the REASONING QUALITY of a coding solution for use as AI training data. The code already passes all tests — you are scoring only the quality of the reasoning process, not correctness.
+
+Score on four axes (each 1-5):
+
+1. **analysis** (1-5): Did the response correctly identify constraints, edge cases, and specifications before coding? Did it understand the problem deeply or just start writing?
+   - 1: No analysis, jumped straight to code
+   - 3: Basic problem restatement, some edge cases noted
+   - 5: Thorough decomposition, all constraints identified, non-obvious edge cases caught
+
+2. **approach_justification** (1-5): Did it explain WHY this approach, not just WHAT? Were alternatives considered?
+   - 1: No justification, just implemented something
+   - 3: Named the approach, basic complexity stated
+   - 5: Compared alternatives with tradeoffs, justified choice for this specific problem, accurate complexity analysis
+
+3. **implementation_clarity** (1-5): Is the code clean, well-named, with appropriate structure?
+   - 1: Messy, no type hints, cryptic variable names
+   - 3: Readable, some type hints, basic structure
+   - 5: Production-quality: type hints throughout, clear docstrings, well-decomposed functions, appropriate error handling
+
+4. **verification_thoroughness** (1-5): Did it verify the solution against test cases? Did it identify failure modes?
+   - 1: No verification at all
+   - 3: Mentioned test cases pass
+   - 5: Walked through test cases step by step, identified potential failure modes, confirmed edge case handling
+
+Respond with ONLY a JSON object, no other text:
+{"analysis": N, "approach_justification": N, "implementation_clarity": N, "verification_thoroughness": N}

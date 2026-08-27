@@ -1,0 +1,21 @@
+# Minimal Python sandbox for executing generated code.
+# No network. Memory-limited. Timeout-enforced.
+
+FROM python:3.11-slim
+
+# Install only the libraries the problems may need
+RUN pip install --no-cache-dir \
+    numpy \
+    pydantic \
+    httpx \
+    && rm -rf /root/.cache
+
+# Create non-root user for sandbox execution
+RUN useradd -m -s /bin/bash sandbox
+USER sandbox
+WORKDIR /home/sandbox
+
+# Copy the test runner
+COPY sandbox/run_tests.py /home/sandbox/run_tests.py
+
+ENTRYPOINT ["python", "/home/sandbox/run_tests.py"]

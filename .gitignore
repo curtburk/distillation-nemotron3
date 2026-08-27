@@ -1,0 +1,87 @@
+# =============================================================================
+# Other demos — separate projects, not part of this repo
+# =============================================================================
+fury-pact-adjudication/
+
+# =============================================================================
+# Model weights and checkpoints
+# Regeneratable, and far over GitHub's 100 MB per-file limit
+# =============================================================================
+
+# Megatron-format base checkpoint (59 GB)
+# Regenerate: scripts/import_hf_ckpt.py --model-id nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16
+megatron_ckpt/
+
+# LoRA adapter checkpoints (~465 MB each, 7 iterations)
+mbridge_run/checkpoints/
+mbridge_run/data_cache/
+
+# TRL-era adapter output (superseded by the Megatron-Bridge path)
+knowledge-distillation-training/lora_adapter/
+knowledge-distillation-training/smoke_output/
+
+# =============================================================================
+# Corpus data
+# Intermediate stages are regeneratable from the pipeline; the final split is
+# the deliverable and IS committed.
+# =============================================================================
+knowledge-distillation/data/raw/
+knowledge-distillation/data/traces/
+knowledge-distillation/data/filtered/
+knowledge-distillation/data/scored/
+knowledge-distillation/data/seeds/
+
+# Keep data/final/ — 4,302 SFT examples, the actual output
+!knowledge-distillation/data/final/
+!knowledge-distillation/data/final/**
+
+# =============================================================================
+# Eval artifacts
+# Raw completions are large and reproducible; keep the scored summaries.
+# =============================================================================
+knowledge-distillation-training/eval/results/holdout_*.jsonl
+knowledge-distillation-training/eval/results/completions_*.jsonl
+
+# =============================================================================
+# Logs and process state
+# =============================================================================
+*.log
+**/logs/
+nohup.out
+*.pid
+pipeline.log
+train.pid
+
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# =============================================================================
+# Editor / OS
+# =============================================================================
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# =============================================================================
+# Secrets — never commit
+# =============================================================================
+.env
+.env.*
+*token*.txt
+*credentials*
+# Profiling artifacts
+*.nsys-rep
+*.sqlite
+*.qdrep

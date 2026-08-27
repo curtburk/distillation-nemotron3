@@ -1,0 +1,26 @@
+{
+  "train": {
+    "data_paths": ["/workspace/knowledge-distillation/data/final/train.jsonl"],
+    "sequence_key": "conversations",
+    "role_key": "role",
+    "content_key": "content",
+    "packed": true,
+    "pack_size": 4096
+  },
+  "valid": {
+    "data_paths": ["/workspace/knowledge-distillation/data/final/validation.jsonl"],
+    "sequence_key": "conversations",
+    "role_key": "role",
+    "content_key": "content",
+    "packed": true,
+    "pack_size": 4096
+  },
+  "test": {
+    "data_paths": ["/workspace/knowledge-distillation/data/final/test.jsonl"],
+    "sequence_key": "conversations",
+    "role_key": "role",
+    "content_key": "content",
+    "packed": true,
+    "pack_size": 4096
+  }
+}

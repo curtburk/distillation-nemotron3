@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "model": "stock_smoke",
+    "total": 5,
+    "passed": 1,
+    "pass_at_1": 0.2,
+    "no_code_block": 4,
+    "full_format_rate": 0.0,
+    "avg_sections": 0.2,
+    "by_source": {
+      "apps": {
+        "passed": 1,
+        "total": 5,
+        "rate": 0.2
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "passed": 0,
+        "total": 2,
+        "rate": 0.0
+      },
+      "medium": {
+        "passed": 1,
+        "total": 3,
+        "rate": 0.3333333333333333
+      }
+    }
+  },
+  "detail": [
+    {
+      "problem_id": "APPS_4975",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4049",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2619",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2259",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1307",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 1,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    }
+  ]
+}

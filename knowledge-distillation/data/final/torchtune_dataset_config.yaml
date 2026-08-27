@@ -1,0 +1,10 @@
+# Torchtune dataset configuration
+# Generated from 4302 examples
+
+dataset:
+  source: /home/gb300/pmm-demos/knowledge-distillation/data/final/train.jsonl
+  message_transform:
+    train_on_input: false
+    column_map:
+      messages: conversations
+  split: train

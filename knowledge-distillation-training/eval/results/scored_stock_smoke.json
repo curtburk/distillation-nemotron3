@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "model": "stock_smoke",
+    "total": 5,
+    "passed": 5,
+    "pass_at_1": 1.0,
+    "no_code_block": 0,
+    "full_format": 4,
+    "full_format_rate": 0.8,
+    "avg_sections": 4.8,
+    "think_blocks": 0
+  },
+  "detail": [
+    {
+      "problem_id": "HumanEval_0",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_1",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_2",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_3",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_4",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    }
+  ]
+}

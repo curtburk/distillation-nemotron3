@@ -1,0 +1,2736 @@
+{
+  "summary": {
+    "model": "distilled",
+    "total": 164,
+    "passed": 144,
+    "pass_at_1": 0.8780487804878049,
+    "no_code_block": 1,
+    "full_format": 143,
+    "full_format_rate": 0.8719512195121951,
+    "avg_sections": 4.640243902439025,
+    "think_blocks": 0
+  },
+  "detail": [
+    {
+      "problem_id": "HumanEval_0",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_1",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_2",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_3",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_4",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_5",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_6",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_7",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_8",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_9",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_10",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_11",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_12",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_13",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_14",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_15",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_16",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_17",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_18",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_19",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_20",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_21",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_22",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_23",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_24",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_25",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_26",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_27",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_28",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_29",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_30",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_31",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_32",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_33",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_34",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_35",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_36",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_37",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_38",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_39",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_40",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_41",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_42",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_43",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_44",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_45",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_46",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_47",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_48",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_49",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_50",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_51",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_52",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_53",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_54",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_55",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_56",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_57",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_58",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_59",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_60",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_61",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_62",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_63",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_64",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_65",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_66",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_67",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_68",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_69",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_70",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_71",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_72",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_73",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_74",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_75",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_76",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_77",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_78",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_79",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_80",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_81",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_82",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_83",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_84",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_85",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_86",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_87",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_88",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_89",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_90",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_91",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_92",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_93",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_94",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_95",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_96",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_97",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_98",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_99",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_100",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_101",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_102",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_103",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_104",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_105",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_106",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_107",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_108",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_109",
+      "format": {
+        "sections_present": [
+          "## Verification"
+        ],
+        "section_count": 1,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_110",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_111",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_112",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_113",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_114",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_115",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_116",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_117",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_118",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_119",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_120",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_121",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_122",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_123",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_124",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_125",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_126",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_127",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_128",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_129",
+      "format": {
+        "sections_present": [],
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_130",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_131",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_132",
+      "format": {
+        "sections_present": [
+          "## Verification"
+        ],
+        "section_count": 1,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_133",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_134",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_135",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_136",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_137",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_138",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_139",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_140",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_141",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_142",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_143",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_144",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_145",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "HumanEval_146",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_147",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_148",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_149",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_150",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_151",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_152",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_153",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_154",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_155",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_156",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_157",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_158",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_159",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_160",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_161",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Verification"
+        ],
+        "section_count": 4,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_162",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_163",
+      "format": {
+        "sections_present": [
+          "## Analysis",
+          "## Approach",
+          "## Implementation Plan",
+          "## Solution",
+          "## Verification"
+        ],
+        "section_count": 5,
+        "full_format": true,
+        "emitted_think_block": false
+      },
+      "no_code": false,
+      "passed": false
+    }
+  ]
+}

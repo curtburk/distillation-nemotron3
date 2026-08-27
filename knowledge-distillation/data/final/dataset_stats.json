@@ -1,0 +1,78 @@
+{
+  "train": {
+    "split": "train",
+    "count": 3872,
+    "sources": {
+      "apps": 3284,
+      "mbpp": 414,
+      "humaneval_plus": 138,
+      "enterprise_synthetic": 36
+    },
+    "difficulties": {
+      "medium": 2212,
+      "easy": 1186,
+      "hard": 474
+    },
+    "categories": {
+      "benchmark": 3836,
+      "debugging": 12,
+      "data_pipeline": 9,
+      "security_aware": 6,
+      "code_review": 4,
+      "api_integration": 3,
+      "system_design": 2
+    },
+    "quality_score_avg": 4.565,
+    "quality_score_min": 3.5,
+    "quality_score_max": 5.0,
+    "est_total_tokens": 7148434
+  },
+  "validation": {
+    "split": "validation",
+    "count": 215,
+    "sources": {
+      "apps": 182,
+      "mbpp": 23,
+      "humaneval_plus": 8,
+      "enterprise_synthetic": 2
+    },
+    "difficulties": {
+      "medium": 123,
+      "easy": 66,
+      "hard": 26
+    },
+    "categories": {
+      "benchmark": 213,
+      "debugging": 1,
+      "security_aware": 1
+    },
+    "quality_score_avg": 4.564,
+    "quality_score_min": 3.7,
+    "quality_score_max": 5.0,
+    "est_total_tokens": 388139
+  },
+  "test": {
+    "split": "test",
+    "count": 215,
+    "sources": {
+      "apps": 182,
+      "mbpp": 23,
+      "humaneval_plus": 8,
+      "enterprise_synthetic": 2
+    },
+    "difficulties": {
+      "medium": 123,
+      "easy": 66,
+      "hard": 26
+    },
+    "categories": {
+      "benchmark": 213,
+      "security_aware": 1,
+      "code_review": 1
+    },
+    "quality_score_avg": 4.629,
+    "quality_score_min": 3.55,
+    "quality_score_max": 5.0,
+    "est_total_tokens": 415694
+  }
+}

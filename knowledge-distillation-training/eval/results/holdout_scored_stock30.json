@@ -1,0 +1,437 @@
+{
+  "summary": {
+    "model": "stock30",
+    "total": 30,
+    "passed": 5,
+    "pass_at_1": 0.16666666666666666,
+    "no_code_block": 22,
+    "full_format_rate": 0.0,
+    "avg_sections": 0.13333333333333333,
+    "by_source": {
+      "apps": {
+        "passed": 4,
+        "total": 26,
+        "rate": 0.15384615384615385
+      },
+      "mbpp": {
+        "passed": 0,
+        "total": 3,
+        "rate": 0.0
+      },
+      "humaneval_plus": {
+        "passed": 1,
+        "total": 1,
+        "rate": 1.0
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "passed": 1,
+        "total": 10,
+        "rate": 0.1
+      },
+      "medium": {
+        "passed": 4,
+        "total": 19,
+        "rate": 0.21052631578947367
+      },
+      "hard": {
+        "passed": 0,
+        "total": 1,
+        "rate": 0.0
+      }
+    }
+  },
+  "detail": [
+    {
+      "problem_id": "APPS_4975",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4049",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2619",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2259",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1307",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "MBPP_449",
+      "source": "mbpp",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": false,
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4257",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_1994",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4544",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1415",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4812",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1676",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_3985",
+      "source": "apps",
+      "difficulty": "hard",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4611",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2437",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_524",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "MBPP_217",
+      "source": "mbpp",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": false,
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_4110",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "MBPP_482",
+      "source": "mbpp",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": false,
+      "no_code": false,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2662",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 2,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_2231",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2503",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_912",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 2,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_306",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1618",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2301",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_590",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2848",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_1773",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "HumanEval_77",
+      "source": "humaneval_plus",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": false,
+      "no_code": false,
+      "passed": true
+    }
+  ]
+}
