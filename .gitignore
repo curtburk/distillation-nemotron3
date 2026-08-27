@@ -85,3 +85,8 @@ env/
 *.nsys-rep
 *.sqlite
 *.qdrep
+
+# Profiling artifacts
+*.nsys-rep
+*.sqlite
+*.qdrep

@@ -33,7 +33,7 @@ RAW_DIR = KD_ROOT / "data/raw"
 RESULTS_DIR = Path(__file__).parent / "results"
 
 MAX_CONCURRENT = 8
-MAX_TOKENS = 12288
+MAX_TOKENS = 10240
 TIMEOUT_SECONDS = 900
 
 

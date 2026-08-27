@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "model": "teacher_smoke",
+    "total": 5,
+    "passed": 4,
+    "pass_at_1": 0.8,
+    "no_code_block": 1,
+    "full_format_rate": 0.0,
+    "avg_sections": 0.0,
+    "by_source": {
+      "apps": {
+        "passed": 4,
+        "total": 5,
+        "rate": 0.8
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "passed": 2,
+        "total": 2,
+        "rate": 1.0
+      },
+      "medium": {
+        "passed": 2,
+        "total": 3,
+        "rate": 0.6666666666666666
+      }
+    }
+  },
+  "detail": [
+    {
+      "problem_id": "APPS_4975",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_4049",
+      "source": "apps",
+      "difficulty": "easy",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_2619",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": true,
+      "passed": false
+    },
+    {
+      "problem_id": "APPS_2259",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    },
+    {
+      "problem_id": "APPS_1307",
+      "source": "apps",
+      "difficulty": "medium",
+      "format": {
+        "section_count": 0,
+        "full_format": false,
+        "emitted_think_block": false
+      },
+      "io_mode": true,
+      "no_code": false,
+      "passed": true
+    }
+  ]
+}
