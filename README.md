@@ -18,13 +18,13 @@ Held-out test split of 213 problems (182 APPS, 8 HumanEval+), none of them seen 
 | mean completion tokens | 9,736 | 3,125 | 875 |
 | responses with no code block | 138 | 11 | 8 |
 
-Two ways to read this. Against its own baseline the student gained 40 points. Against the teacher it retained **92.5% of a model 9.5 times its size** — and on easy problems it matched the teacher exactly.
+Two ways to read this. Against its own baseline the student gained 40 points. Against the teacher it retained **92.5% of a model 9.5 times its size** - and on easy problems it matched the teacher exactly.
 
-The gain comes from finishing, not from better algorithms. Stock Nemotron 3 Nano failed 138 of 213 problems by never producing code at all: it reasoned past the token budget and got cut off mid-thought, usually with a correct analysis and no solution. The teacher terminates every time, in 875 tokens. Distillation moved the student most of the way there — 93% termination at a third of stock's length — without fully closing the gap. The effect is largest on hard problems, which is where the base model spirals longest.
+The gain comes from finishing, not from better algorithms. Stock Nemotron 3 Nano failed 138 of 213 problems by never producing code at all: it reasoned past the token budget and got cut off mid-thought, usually with a correct analysis and no solution. The teacher terminates every time, in 875 tokens. Distillation moved the student most of the way there — 93% termination at a third of stock's length - without fully closing the gap. The effect is largest on hard problems, which is where the base model spirals longest.
 
 Caveats worth stating plainly. This is one training run with one seed and one checkpoint. The teacher generated traces for these same problems during corpus construction, so the split is held out from the student but not from the teacher, and its score should be read as a contaminated ceiling; it also ran at a smaller token budget and on a different vLLM build. Evaluation uses greedy decoding while the corpus was generated at temperature 1.0.
 
-MBPP is excluded from the table above. It scores 1/23 for every model tested including the 284B teacher, which is a harness bug rather than a model property — running a known-strong reference model through the same pipeline is what surfaced it.
+MBPP is excluded from the table above. It scores 1/23 for every model tested including the 284B teacher, which is a harness bug rather than a model property - running a known-strong reference model through the same pipeline is what surfaced it.
 
 ## Layout
 
